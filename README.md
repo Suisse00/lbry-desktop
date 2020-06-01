@@ -78,6 +78,7 @@ You can run the web version (lbry.tv), the electron app, or both at the same tim
 
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download/) (v10 required)
+- [Python](https://www.python.org/downloads/) (>= 2.7)
 - [Yarn](https://yarnpkg.com/en/docs/install)
 
 1. Clone (or [fork](https://help.github.com/articles/fork-a-repo/)) this repository: `git clone https://github.com/lbryio/lbry-desktop`
